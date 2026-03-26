@@ -1,0 +1,5 @@
+print("Hello")
+print("My name is Aryaman Kanoi")
+print("I am from class bsc computer science")
+print("Section A")
+print("USN 1RUA24SCS0013")
